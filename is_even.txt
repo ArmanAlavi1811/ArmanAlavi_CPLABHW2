@@ -1,0 +1,2 @@
+This function check if a number is even or not. If "Number mod 2" is equal to 
+zero, it returns "even" and it returns "odd" otherwise.
